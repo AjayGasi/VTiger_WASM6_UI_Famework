@@ -9,7 +9,7 @@
   
    <test thread-count="2" parallel="tests" name="Test-Runner 2">
     <classes>
-      <class name="pomTests.CreateContactUsingBaseClass"/>
+      <class name="pomTests.CreateContactUsingBaseClassTest"/>
     </classes>
   </test> <!-- Test -->
   

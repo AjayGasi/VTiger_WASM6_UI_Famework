@@ -4,7 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="pomTests.CreateOrgUsingBaseClass"/>
-      <class name="pomTests.CreateContactUsingBaseClass"/>
+      <class name="pomTests.CreateContactUsingBaseClassTest"/>
       <class name="pomTests.CreateContactWithOrgUsingBaseClass"></class>
     </classes>
   </test> <!-- Test -->

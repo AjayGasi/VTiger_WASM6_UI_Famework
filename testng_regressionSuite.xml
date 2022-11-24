@@ -10,7 +10,7 @@
     <classes>
       <class name="pomTests.CreateOrgUsingBaseClass"/>
       <class name="pomTests.CreateContactWithOrgUsingBaseClass"/>
-      <class name="pomTests.CreateContactUsingBaseClass"/>
+      <class name="pomTests.CreateContactUsingBaseClassTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
